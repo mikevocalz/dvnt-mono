@@ -27,6 +27,21 @@
     "paths": {
       "app/*": [
         "../../packages/app/*"
+      ],
+      "@ui/*": [
+        "../../packages/app/ui/*"
+      ],
+      "@store/*": [
+        "../../packages/app/store/*"
+      ],
+      "@services/*": [
+        "../../packages/app/services/*"
+      ],
+      "@utils/*": [
+        "../../packages/app/utils/*"
+      ],
+      "@hooks/*": [
+        "../../packages/app/hooks/*"
       ]
     }
   },
